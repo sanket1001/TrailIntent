@@ -37,6 +37,7 @@ public class MainActivityActivity extends AppCompatActivity {
                 Intent intent1=new Intent(MainActivityActivity.this, com.example.sanket.trailintent.Activity2.class);
                 intent1.putExtra("casualInfo",name);
                 startActivity(intent1);
+                Toast.makeText(MainActivityActivity.this,"Hey made some changes!", Toast.LENGTH_SHORT).show();
             }
         });
 
