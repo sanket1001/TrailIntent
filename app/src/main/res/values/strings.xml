@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrailIntent</string>
+    <string name="etHint">Please enter yout name</string>
+    <string name="idBtnAct1_name">Go To Activity 2</string>
+    <string name="idBtn2">Go To Activity 3</string>
+    <string name="idTxt1_text">Info from next activity will be shown here</string>
+    <string name="idTxt2_text">Welcome to Activity 2</string>
+    <string name="idBtn3">Back to Activity 1</string>
+    <string name="idBtn4">Back to Activity 1</string>
+    <string name="idTxt3">Welcome to Activity 3</string>
+</resources>
